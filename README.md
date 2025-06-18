@@ -42,7 +42,7 @@ I'm not trying to show off — I'm just trying to learn. Every project here is a
 I'm just starting out, and I don’t have it all figured out yet — but I’m learning one file at a time.
 
 - 🌍 Timezone: GMT+5:30 (India Standard Time)
-- 📧 Email: your_email@example.com *(optional)*
+- 📧 Email: zainulcode@gmail.com 
 
 ---
 
